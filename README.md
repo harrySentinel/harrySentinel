@@ -17,8 +17,6 @@
 
 - 📄 Know about my experiences: https://drive.google.com/file/d/1yfZAddBNIdM619ktyM-7-P5tgX5uM5I8/view?usp=sharing
 
-- ⚡ Fun fact **I debug code and punchlines — stand-up comedy is on my bucket list!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@harry_587" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@harry_587" height="30" width="40" /></a>
