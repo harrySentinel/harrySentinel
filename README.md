@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently **Crafting web Applications**
 
-- 🌱 I’m currently learning **Nextjs, DevOps, WebSockets, Docker & CI/CD**
+- 🌱 I’m currently learning **Nextjs, WebSockets, Docker & CI/CD**
 
 - 👯 I’m looking to collaborate on **MERN Projects**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **adityasri1801@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GtDWoB6wU7bu7vCA6dIz-qDepTUCiW8G/view?usp=drive_link](https://drive.google.com/file/d/1GtDWoB6wU7bu7vCA6dIz-qDepTUCiW8G/view?usp=drive_link)
+- 📄 Know about my experiences: https://drive.google.com/file/d/1yfZAddBNIdM619ktyM-7-P5tgX5uM5I8/view?usp=sharing
 
 - ⚡ Fun fact **I debug code and punchlines — stand-up comedy is on my bucket list!**
 
