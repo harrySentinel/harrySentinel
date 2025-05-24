@@ -1,7 +1,7 @@
 [![An image of @harrysentinel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harrysentinel)](https://holopin.io/@harrysentinel)
 <h1 align="center">Hi 👋, I'm Aditya Srivastava</h1>
 <h3 align="center">Full-Stack Developer | Backend Enthusiast | DevOps Learner</h3>
-<img align="right" alt="coding" width="300" height="300" src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZzbDFsNzY5Z3BxY2NvZzJiZnF0ZjI4aWQ0YzZvczJyZm80bTBlbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HzPtbOKyBoBFsK4hyc/giphy.gif" >
+<img align="right" alt="coding" width="300" height="300" src ="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZzbDFsNzY5Z3BxY2NvZzJiZnF0ZjI4aWQ0YzZvczJyZm80bTBlbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HzPtbOKyBoBFsK4hyc/giphy.gif](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harrysentinel&label=Profile%20views&color=0e75b6&style=flat" alt="harrysentinel" /> </p>
 
