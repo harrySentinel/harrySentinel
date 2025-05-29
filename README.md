@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **MERN Projects**
 
-- 👨‍💻 All of my projects are available at [https://name.github.io](https://name.github.io)
+- 👨‍💻Explore my portfolio: [portfolio](https://portfolio-v2-eight-self.vercel.app/)
 
 - 📫 How to reach me **adityasri1801@gmail.com**
 
