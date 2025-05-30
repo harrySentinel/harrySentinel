@@ -13,7 +13,7 @@
 
 - 👨‍💻Explore my portfolio: [portfolio](https://portfolio-v2-eight-self.vercel.app/)
 
-- 📫 How to reach me **adityasri1801@gmail.com**
+- 📫 How to reach me [e-mail](**adityasri1801@gmail.com**)
 
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1yfZAddBNIdM619ktyM-7-P5tgX5uM5I8/view?usp=sharing)
 
