@@ -1,4 +1,9 @@
-[![An image of @harrysentinel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harrysentinel)](https://holopin.io/@harrysentinel)
+<p align="center">
+  <a href="https://holopin.io/@harrysentinel" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Holopin Badges" width="500" />
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Aditya Srivastava</h1>
 <h3 align="center">Full-Stack Developer | Backend Enthusiast | DevOps Learner</h3>
 <img align="right" alt="coding" width="300" height="300" src ="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" >
