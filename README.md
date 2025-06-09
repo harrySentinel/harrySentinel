@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@harry_587" target="blank"><img align="center" src="https://icons8.com/icon/xWVjuc9hryql/twitter-bird" alt="@harry_587" height="60" width="60" /></a>
+<a href="https://twitter.com/@harry_587" target="blank"><img align="center" src="https://private-user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk0OTMxMzcsIm5iZiI6MTc0OTQ5MjgzNywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NjAtY2M0ZmU4OGMtN2Y3YS00MWQ4LWI0NDktMzRiN2ExNzhjMWM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjA5VDE4MTM1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFjNjlkMTU5MWQ0YjM5NGJiMjkzMmE4MzYyNGVmYmM0NWRmOTljZTdiMDQzNTY3OTE4NzAxYmZmZDBkMzBmNmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.OgJDCtySwbJ-5r9WHJbh0fkkOv_80l_WRHls0myPs1g" height="60" width="60" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/aditya-srivastava-1362b91a0" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="www.linkedin.com/in/aditya-srivastava-1362b91a0" height="60" width="60" /></a>
 </p>
 
