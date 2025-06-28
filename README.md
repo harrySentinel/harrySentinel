@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=50&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=ADITYA+SRIVASTAVA;%3C%2F+FULL+STACK+WIZARD+%3E" alt="Name Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=50&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=ADITYA+SRIVASTAVA;%3C%2F+DEVELOPER+%3E" alt="Name Animation" />
 </h1>
 
 <div align="center">
