@@ -31,6 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harrysentinel&show_icons=true&locale=en&layout=compact" alt="harrysentinel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harrysentinel&show_icons=true&locale=en" alt="harrysentinel" /></p>
+<p>&nbsp;<img align="center" src="https://streak-stats.demolab.me/api?user=harrysentinel&theme=default&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="harrysentinel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harrysentinel&theme=default&hide_border=false&date_format=j%20M%20Y&locale=en&mode=daily&exclude_days=Sun" alt="harrysentinel" /></p>
