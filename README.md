@@ -24,7 +24,7 @@
 
   ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> About My Digital Journey
 
-<img align="right" alt="Profile GIF" width="350" src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png">
+<img align="right" alt="Profile GIF" width="350" height="350" src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png">
 
 ```javascript
 const aditya = {
