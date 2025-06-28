@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harrysentinel&show_icons=true&locale=en" alt="harrysentinel" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.me/?user=harrysentinel&theme=default" alt="harrysentinel" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harrysentinel&theme=default&hide_border=false&stroke=0000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000" alt="harrysentinel" /></p>
