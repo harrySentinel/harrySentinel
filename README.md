@@ -8,11 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harrysentinel&label=Profile%20views&color=0e75b6&style=flat" alt="harrysentinel" /> </p>
 
-- 🔭 I'm currently **Crafting web Applications**
+- 🔭 I’m currently **Crafting web Applications**
 
-- 🌱 I'm currently learning **Nextjs, WebSockets, Gen AI**
+- 🌱 I’m currently learning **Nextjs, WebSockets, Gen AI**
 
-- 👯 I'm looking to collaborate on **MERN Projects**
+- 👯 I’m looking to collaborate on **MERN Projects**
 
 - 👨‍💻Explore my portfolio: [portfolio](https://portfolio-v2-eight-self.vercel.app/)
 
@@ -31,6 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harrysentinel&show_icons=true&locale=en&layout=compact" alt="harrysentinel" /></p>
 
-<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com?user=harrysentinel&include_all_commits=true&hide_border=false&theme=default&date_format=M%20j%5B%2C%20Y%5D&fire=orange&ring=ffb347&currStreakLabel=orange&sideLabels=orange&currStreakNum=ff7600&sideNums=f39c12&v=2" alt="harrysentinel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harrysentinel&show_icons=true&locale=en" alt="harrysentinel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harrysentinel&theme=default&hide_border=false&date_format=j%20M%20Y&locale=en&mode=daily&exclude_days=Sun" alt="harrysentinel" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harrysentinel&" alt="harrysentinel" /></p>
