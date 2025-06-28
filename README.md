@@ -31,6 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harrysentinel&show_icons=true&locale=en&layout=compact" alt="harrysentinel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harrysentinel&show_icons=true&locale=en" alt="harrysentinel" /></p>
+<p>&nbsp;<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=harrysentinel&theme=github-compact&include_all_commits=true" alt="harrysentinel" /></p></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harrysentinel&" alt="harrysentinel" /></p>
