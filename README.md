@@ -1,6 +1,6 @@
-<p align="center">
+<!--<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Holopin Banner" style="width:100%; max-width:1000px;" />
-</p>
+</p> -->
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" style="vertical-align: middle;" />, I'm Aditya Srivastava</h1>
 <h3 align="center">Full-Stack Developer | Backend Enthusiast | Web3</h3>
@@ -20,9 +20,11 @@
 
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1NuP9C7iw8F-a3N6NOsVrEeDC1oGLlXrn/view?usp=sharing)
 
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" height="8" alt="Rainbow Line" />
+
   ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> About My Digital Journey
 
-<img align="right" alt="Profile GIF" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Profile GIF" width="350" src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png">
 
 ```javascript
 const aditya = {
