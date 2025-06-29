@@ -31,7 +31,7 @@ const aditya = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
     currentFocus: "Building Scalable Applications",
-    techStack: ["React", "Node.js", "MongoDB", "Next.js", "Prisma ORM", "Inngest", "Supabase"...],
+    techStack: ["MERN", "Next.js", "Prisma ORM", "Inngest", "Supabase"...],
     currentlyLearning: ["Web3", "AI/ML", "Microservices"],
     funFact: "I turn coffee into code ☕ → 💻",
     motto: "Code with passion, deploy with precision! 🚀"
