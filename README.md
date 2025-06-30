@@ -59,6 +59,8 @@ const aditya = {
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harrysentinel&" alt="harrysentinel" /></p>
 
-<p>&nbsp;<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=harrysentinel&theme=github-compact&include_all_commits=true" alt="harrysentinel" /></p></p>
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" height="8" alt="Rainbow Line" />
+
+<p>&nbsp;<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=harrysentinel&theme=github-compact&include_all_commits=true" alt="harrysentinel" /></p></p>
+
 
