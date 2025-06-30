@@ -25,7 +25,7 @@
   ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> About My Digital Journey
 
 <img align="right" alt="Profile GIF" width="200" height="200" src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png">
-
+<!--
 ```javascript
 const aditya = {
     pronouns: "He/Him",
@@ -36,7 +36,7 @@ const aditya = {
     funFact: "I turn coffee into code ☕ → 💻",
     motto: "Code with passion, deploy with precision! 🚀"
 };
-```
+```-->
 
 <!--<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=🔭+Currently+building+next-gen+web+apps;🌱+Mastering+AI+%26+Blockchain+technologies;👯+Open+for+groundbreaking+collaborations;💬+Ask+me+about+MERN+%26+Web3;📫+Always+ready+for+new+challenges!" alt="Status Updates" />
