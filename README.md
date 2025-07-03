@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently **Crafting web Applications**
 
-- 🌱 I’m currently learning **Nextjs, WebSockets, Gen AI**
+- 🌱 I’m currently learning **Nextjs, Web3, Gen AI**
 
 - 👯 I’m looking to collaborate on **MERN Projects**
 
