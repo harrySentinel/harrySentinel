@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently **Crafting web Applications**
 
-- 🌱 I’m currently learning **Web3, Gen AI, n8n**
+- 🌱 I’m currently learning <h1>Web3</h1>, Gen AI, n8n**
 
 - 👯 I’m looking to collaborate on **MERN Projects**
 
