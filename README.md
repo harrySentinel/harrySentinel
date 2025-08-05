@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harrysentinel&label=Profile%20views&color=0e75b6&style=flat" alt="harrysentinel" /> </p>
 
-- 🔭 I’m currently **Crafting web Applications**
+- 🔭 I’m currently **Crafting web Apps**
 
 - 🌱 I’m currently learning **Web2, Gen AI, n8n**
 
