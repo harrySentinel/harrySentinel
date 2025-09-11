@@ -22,7 +22,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" height="8" alt="Rainbow Line" />
 
-<h3 align="left">Connect with me :-)</h3>
+<h3 align="left">Connect with me :)</h3>
 <p align="left">
 <a href="https://twitter.com/@harry_587" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" height="60" width="60" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/aditya-srivastava-1362b91a0" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="www.linkedin.com/in/aditya-srivastava-1362b91a0" height="60" width="60" /></a>
