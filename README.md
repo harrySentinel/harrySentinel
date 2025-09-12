@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **devops, Gen AI, n8n**
 
-- 👯 I’m looking to collaborate on **MERN & NEXT Projects**
+- 👯 I’m looking to collaborate on **MERN & NEXTjs Projects**
 
 - 👨‍💻Explore my portfolio: [portfolio](https://portfolio-v2-eight-self.vercel.app/)
 
